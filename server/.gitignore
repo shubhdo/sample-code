@@ -1,0 +1,5 @@
+node_modules
+frontend/*
+environments/.dev.env
+environments/.prod.env
+lib/public/usid/.usid
